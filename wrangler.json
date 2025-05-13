@@ -1,0 +1,16 @@
+{
+  "compatibility_date": "2025-04-01",
+  "main": "src/index.ts",
+  "name": "noisy-pond-3035",
+  "upload_source_maps": true,
+  "d1_databases": [
+    {
+      "binding": "DB",
+      "database_id": "60ab81b7-662c-4fa2-ad32-914fb8b8af44",
+      "database_name": "floral-sky-dea8-d1"
+    }
+  ],
+  "observability": {
+    "enabled": true
+  }
+}
